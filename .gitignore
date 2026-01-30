@@ -3,4 +3,8 @@ node_modules/
 __pycache__/
 *.pyc
 .env
-
+env/
+venv/
+pymupdf-venv/
+.DS_Store
+__pycache__/
